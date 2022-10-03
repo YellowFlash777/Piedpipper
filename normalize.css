@@ -1,0 +1,17 @@
+body{max-width: 70%;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    }
+h1, h2, h3{font-family: Arial, Helvetica, sans-serif;
+        margin-top: 1.5 em;
+            }
+h1{font-size: 32px;
+        }
+th, td {border: 1px solid black;
+         }
+
+figure{float: right;
+        font-style: italic;
+     }
+    
